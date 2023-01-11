@@ -1,0 +1,124 @@
+
+.row1{
+    display: flex;
+}
+
+.row1_red{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    background-color: red;
+    justify-content: flex-start;
+    
+}
+.row1_blue{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    background-color: blue;
+    justify-content: flex-end;
+}
+.row2_green{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    background-color: green;
+    justify-content: flex-start;
+}
+.row2_blue{
+    display: flex;
+    flex-direction: row;
+    width: 10%;
+    background-color: blue;
+    justify-content: flex-end;
+}
+.row3_red{
+    display: flex;
+    flex-direction: row;
+    width: 10%;
+    background-color: red;
+    justify-content: flex-start;
+}
+.row3_green{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    background-color: green;
+    justify-content: center;
+}
+.row4_red{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    background-color: red;
+    justify-content: flex-start;
+}
+.row5_green{
+    display: flex;
+    width: 100%;
+    background-color: green;
+}
+.row5_red{
+    display: flex;
+    flex-direction: row;
+    width: 10%;
+    background-color: red;
+    justify-content: center;
+}
+.row6_red{
+    display: flex;
+    flex-direction: row;
+    width: 45%;
+    background-color: red;
+    justify-content: flex-start;
+}
+.row6_blue{
+    display: flex;
+    flex-direction: row;
+    width: 10%;
+    background-color: blue;
+    justify-content: center;
+}
+.row7_red{
+    display: flex;
+    width: 10%;
+    background-color: red;
+    height: 100%;
+}
+.row7_green{
+    display:flex;
+    height: 3%;
+    width: 90%;
+    background-color: green;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+.row8_yellow{
+    display: flex;
+    flex-direction: row;
+    width: 5%;
+    background-color: yellow;
+    justify-content: flex-start;
+}
+.row8_green{
+    display: flex;
+    flex-direction: row;
+    width: 18.75%;
+    background-color: green;
+    justify-content: flex-start;
+}
+.row9_yellow{
+    display: flex;
+    flex-direction: row;
+    width: 17.6%;
+    background-color: yellow;
+    justify-content: flex-start;
+}
+.row9_green{
+    display: flex;
+    flex-direction: row;
+    width: 3%;
+    background-color: green;
+    justify-content: flex-start;
+}
